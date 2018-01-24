@@ -4,4 +4,5 @@ script: ./grade.sh PA2Main PublicTestCases
 
 notifications:
   on_success: always
-  email: your.github.email@whatever.domain
+  email:
+        ajayulagappa@email.arizona.edu
